@@ -28,10 +28,8 @@ This installation provides:
 - Other ASUS gaming laptops with compatible hardware
 
 **Tested on:**
-- ASUS ROG Zephyrus G14
-- ASUS ROG Zephyrus G15
-- ASUS TUF Gaming series
-
+- ASUS Flow x13
+ 
 ## Prerequisites
 
 - **OS**: Debian 13 (Trixie) or newer
