@@ -26,7 +26,7 @@ fi
 # Install prerequisites
 echo "Installing prerequisites..."
 apt update
-apt install -y curl git build-essential
+apt install -y curl git build-essential libudev-dev pkgconf
 
 # Install Rust
 echo "Installing Rust..."
